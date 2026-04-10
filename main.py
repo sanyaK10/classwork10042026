@@ -30,6 +30,3 @@ console.print(table)
 # cowsay.stegosaurus("usiiiiiiiiirwe")
 
 
-
-
-
